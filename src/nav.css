@@ -1,0 +1,5 @@
+.nav{position: fixed; width: 100%;top: 0;padding: 10px 10px;display: flex;justify-content: space-between;align-items: center;transition-timing-function:ease-in ;
+transition: all 0.5s;z-index: 999;}
+.nav > img{width: 120px;}
+.nav > img + img{width: 40px;height: 40px;object-fit: contain;}
+.nav_black{background-color: #111;}

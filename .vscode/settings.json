@@ -1,0 +1,9 @@
+{
+    "emmet.includeLanguages": {
+        "javascript": "javscriptreact"
+    },
+    "tailwindCSS.emmetCompletions": true,
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.useInlineCompletions": true,
+    "emmet.triggerExpansionOnTab": true
+}
